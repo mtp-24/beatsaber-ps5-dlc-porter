@@ -1,0 +1,16 @@
+{
+  "package_title": "Beat Saber",
+  "unlock_all_dlc": true,
+  "environment_fallbacks": {
+    "ColdplayEnvironment": "WeaveEnvironment",
+    "ProdigyEnvironment": "EDMEnvironment",
+    "HipHopMixtape2Environment": "HipHopEnvironment",
+    "Halloween2Environment": "HalloweenEnvironment",
+    "Halloween2026Environment": "HalloweenEnvironment"
+  },
+  "default_environment": "WeaveEnvironment",
+  "max_beatmap_version": "4.1.0",
+  "skip_packs": [],
+  "dump_forge": "bin/ps5-dump-forge-0.5.6-macos-universal/ps5-dump-forge",
+  "kraken_level": "fast"
+}

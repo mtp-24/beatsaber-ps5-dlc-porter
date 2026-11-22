@@ -1,0 +1,14 @@
+# third-party tools (PS5 Dump Forge) are not redistributed
+bin/
+# local environment and outputs: game files never go into the repository
+.venv/
+work/
+*.pkg
+*.bundle
+*.elf
+*.il2map.pkl
+__pycache__/
+*.pyc
+.DS_Store
+# BeatSaver maps for custom_songs.py
+songs/

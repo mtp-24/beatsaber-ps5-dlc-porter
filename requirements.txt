@@ -1,0 +1,7 @@
+UnityPy==1.25.4
+pillow==11.3.0
+attrs==26.1.0
+soundfile==0.13.1
+numpy==2.0.2
+# only for tools/analysis (reading the decrypted game code)
+capstone==5.0.9
