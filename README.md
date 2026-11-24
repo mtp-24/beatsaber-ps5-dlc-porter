@@ -141,3 +141,7 @@ docs/HOW-IT-WORKS.md before trusting a build.
 | `unity_bundles.py` | Bundle helpers: PS5 retargeting, PS5 file layout, linear textures. |
 | `config.json` | Environment fallbacks, DLC unlock, packs to skip, newest beatmap format the PS5 build reads, Dump Forge path. |
 | `analysis/` | Readers for the decrypted game code: SELF unwrapping, IL2CPP metadata, annotated disassembly. `check_game.py` uses them. |
+
+https://ko-fi.com/mtp24
+
+https://buymeacoffee.com/mtp24
